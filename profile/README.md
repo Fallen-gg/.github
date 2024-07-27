@@ -1,3 +1,3 @@
-# Bem-vindos ao Github da Fallen.gg + Fallen Store
+# Bem-vindos ao Github do Fallen.gg
 
 ![Github Banner](/images/banner.png)
